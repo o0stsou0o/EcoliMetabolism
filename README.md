@@ -46,3 +46,9 @@ conda install -c conda-forge py-xgboost=1.3.3
 conda install -c rdkit rdkit
 ```
 
+Alternatively, you can install all of these packages with the yaml file:
+
+```
+pip install kinetics.yaml
+```
+
