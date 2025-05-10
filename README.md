@@ -5,7 +5,8 @@ This is a project in collaboration with Aniruddha Chatturaj and Eugene Shakhnovi
 It takes an encoding of a substrate and an encoding of an enzyme and returns a Kcat and Km prediction.  
 
 
-Requirements for running the code in this GitHub repository
+Requirements for running the code in this GitHub repository.
+
 '''
 python 3.7.7
 tensorflow 2.3.1
@@ -28,7 +29,7 @@ zeep 4.2.1
 
 The listed packaged can be installed using conda and anaconda and pip:
 
-
+'''
 pip install torch
 pip install numpy
 pip install tensorflow
@@ -43,4 +44,5 @@ pip install zeep
 conda install pandas=1.3.0
 conda install -c conda-forge py-xgboost=1.3.3
 conda install -c rdkit rdkit
+'''
 
