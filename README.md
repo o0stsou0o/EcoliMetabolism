@@ -7,7 +7,7 @@ It takes an encoding of a substrate and an encoding of an enzyme and returns a K
 
 ## Requirements for running the code in this GitHub repository.
 
-'''
+'''bash
 python 3.7.7
 tensorflow 2.3.1
 jupyter
