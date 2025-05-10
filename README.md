@@ -6,6 +6,7 @@ It takes an encoding of a substrate and an encoding of an enzyme and returns a K
 
 
 Requirements for running the code in this GitHub repository
+'''
 python 3.7.7
 tensorflow 2.3.1
 jupyter
@@ -23,7 +24,7 @@ Bio 1.78
 re 2.2.1
 drfp 0.3.6
 zeep 4.2.1
-
+'''
 
 The listed packaged can be installed using conda and anaconda and pip:
 
