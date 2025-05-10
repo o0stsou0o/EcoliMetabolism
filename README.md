@@ -5,7 +5,7 @@ This is a project in collaboration with Aniruddha Chatturaj and Eugene Shakhnovi
 It takes an encoding of a substrate and an encoding of an enzyme and returns a Kcat and Km prediction.  
 
 
-Requirements for running the code in this GitHub repository.
+## Requirements for running the code in this GitHub repository.
 
 '''
 python 3.7.7
