@@ -2,7 +2,7 @@
 
 This is a project in collaboration with Aniruddha Chatturaj and Eugene Shakhnovich based on the work by Alexander Kroll.  
 
-It takes an encoding of a substrate and an encoding of an enzyme and returns a Kcat and Km prediction.  
+It takes a SMILES encoding of a substrate and an encoding of an enzyme and returns a Kcat and Km prediction. Please run the wrapper.ipynb with your desired substrate and enzyme (and encoding) for the Kcat and Km result.  
 
 
 ## Installation 
