@@ -1,5 +1,9 @@
 # EcoliMetabolism
 
+<p align="center">
+  <img src="./imgs/360_F_1072678929_GDtHyPEMnaJsPkAOSFAh21pRLe8OFOpu.jpg" alt="alt text" width="1100px" align="middle"/>
+</p>
+
 This is a project in collaboration with Aniruddha Chatturaj and Eugene Shakhnovich based on the work by Alexander Kroll.  
 
 It takes a SMILES encoding of a substrate and an encoding of an enzyme and returns a Kcat and Km prediction. Please run the wrapper.ipynb with your desired substrate and enzyme (and encoding) for the Kcat and Km result.  
